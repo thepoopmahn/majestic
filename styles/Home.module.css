@@ -1,0 +1,4 @@
+:global(.leaflet-container).map {
+  height: 100vh;
+  background: var(--background);
+}

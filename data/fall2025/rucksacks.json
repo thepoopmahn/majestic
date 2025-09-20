@@ -1,0 +1,99 @@
+{
+  "blips": [
+    {
+      "position": [9821.5, 3948.5],
+      "value": "high",
+      "description": "На крыше корабля"
+    },
+    {
+      "position": [8575, 3738],
+      "value": "high",
+      "description": "На крыше здания"
+    },
+    {
+      "position": [8451, 3942],
+      "value": "high",
+      "description": "На крыше крана"
+    },
+    {
+      "position": [8687, 3977],
+      "value": "low",
+      "description": "В центре разрушенной цистерны"
+    },
+    {
+      "position": [7116.5, 4588],
+      "value": "low",
+      "description": "На платформе между прицепами"
+    },
+    { "position": [7044, 4744.5], "value": "low", "description": "У входа" },
+    {
+      "position": [9109, 4742.5],
+      "value": "low",
+      "description": "Рядом с цистерной (надо подняться по ступенькам)"
+    },
+    { "position": [3933, 8345], "value": "high", "description": "На крыше" },
+    {
+      "position": [4062, 8275.5],
+      "value": "high",
+      "description": "На фасаде в центре квадрата висит"
+    },
+    { "position": [6427, 6350], "value": "low", "description": "У входа" },
+    {
+      "position": [6426, 6297.5],
+      "value": "low",
+      "description": "Между зданием и стеной"
+    },
+    {
+      "position": [8387, 7953.5],
+      "value": "low",
+      "description": "В переулке лежит"
+    },
+    {
+      "position": [7304.5, 20580],
+      "value": "high",
+      "description": "На фасаде висит"
+    },
+    {
+      "position": [6828.5, 20894],
+      "value": "low",
+      "description": "Лежит на земле"
+    },
+    { "position": [9151, 6960.5], "value": "high", "description": "На крыше" },
+    {
+      "position": [8925.5, 7077],
+      "value": "high",
+      "description": "Под мостом на стене здания висит"
+    },
+    {
+      "position": [9796, 7179],
+      "value": "high",
+      "description": "Под мостом на стене висит"
+    },
+    {
+      "position": [5356.5, 6026.5],
+      "value": "high",
+      "description": "На крыше"
+    },
+    {
+      "position": [9753, 12744],
+      "value": "low",
+      "description": "На земле в сарае"
+    },
+    {
+      "position": [8869, 13882],
+      "value": "low",
+      "description": "У входа на радиостанцию"
+    },
+    {
+      "position": [6630, 3982],
+      "value": "high",
+      "description": "На стене висит"
+    },
+    {
+      "position": [6780, 4188.5],
+      "value": "high",
+      "description": "На вывеске Post OP"
+    }
+  ],
+  "unknowns": []
+}

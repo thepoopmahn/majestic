@@ -1,0 +1,83 @@
+:root {
+  --background: #36474f;
+
+  --color-red: #e03232;
+  --color-orange: #ff8555;
+  --color-green: #72cc72;
+}
+
+html,
+body {
+  height: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.leaflet-popup .leaflet-popup-content-wrapper {
+  border-radius: 6px;
+  color: #000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+  margin: 0;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.leaflet-popup .leaflet-popup-content {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.leaflet-popup .leaflet-popup-tip {
+  display: none;
+}
+
+.leaflet-container .leaflet-popup a.leaflet-popup-close-button {
+  display: none;
+}
+
+.leaflet-marker-icon.blip-circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blip-circle {
+  border-radius: 50%;
+  border: solid 2px #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.24);
+}
+
+.blip-circle--red {
+  background: var(--color-red);
+}
+
+.blip-circle--orange {
+  background: var(--color-orange);
+}
+
+.blip-circle--green {
+  background: var(--color-green);
+}
