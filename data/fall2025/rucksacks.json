@@ -3,55 +3,55 @@
     {
       "position": [9821.5, 3948.5],
       "value": "high",
-      "description": "На крыше корабля"
+      "description": "Лежит на крыше корабля"
     },
     {
       "position": [8575, 3738],
       "value": "high",
-      "description": "На крыше здания"
+      "description": "Лежит на крыше здания"
     },
     {
       "position": [8451, 3942],
       "value": "high",
-      "description": "На крыше крана"
+      "description": "Лежит на крыше крана"
     },
     {
       "position": [8687, 3977],
       "value": "low",
-      "description": "В центре разрушенной цистерны"
+      "description": "Лежит в центре разрушенной цистерны"
     },
     {
       "position": [7116.5, 4588],
       "value": "low",
-      "description": "На платформе между прицепами"
+      "description": "Лежит на платформе между прицепами"
     },
     { "position": [7044, 4744.5], "value": "low", "description": "У входа" },
     {
       "position": [9109, 4742.5],
       "value": "low",
-      "description": "Рядом с цистерной (надо подняться по ступенькам)"
+      "description": "Лежит рядом с оранжевой цистерной (надо подняться по ступенькам)"
     },
     { "position": [3933, 8345], "value": "high", "description": "На крыше" },
     {
       "position": [4062, 8275.5],
       "value": "high",
-      "description": "На фасаде в центре квадрата висит"
+      "description": "Висит на фасаде в центре квадрата"
     },
     { "position": [6427, 6350], "value": "low", "description": "У входа" },
     {
       "position": [6426, 6297.5],
       "value": "low",
-      "description": "Между зданием и стеной"
+      "description": "Лежит между зданием и стеной"
     },
     {
       "position": [8387, 7953.5],
       "value": "low",
-      "description": "В переулке лежит"
+      "description": "Лежит в переулке"
     },
     {
       "position": [7304.5, 20580],
       "value": "high",
-      "description": "На фасаде висит"
+      "description": "Висит на фасаде"
     },
     {
       "position": [6828.5, 20894],
@@ -62,37 +62,37 @@
     {
       "position": [8925.5, 7077],
       "value": "high",
-      "description": "Под мостом на стене здания висит"
+      "description": "Висит под мостом на стене"
     },
     {
       "position": [9796, 7179],
       "value": "high",
-      "description": "Под мостом на стене висит"
+      "description": "Висит под мостом на стене"
     },
     {
       "position": [5356.5, 6026.5],
       "value": "high",
-      "description": "На крыше"
+      "description": "Лежит на крыше"
     },
     {
       "position": [9753, 12744],
       "value": "low",
-      "description": "На земле в сарае"
+      "description": "Лежит на земле в сарае"
     },
     {
       "position": [8869, 13882],
       "value": "low",
-      "description": "У входа на радиостанцию"
+      "description": "Лежит у входа на радиостанцию"
     },
     {
       "position": [6630, 3982],
       "value": "high",
-      "description": "На стене висит"
+      "description": "Висит на стене"
     },
     {
       "position": [6780, 4188.5],
       "value": "high",
-      "description": "На вывеске Post OP"
+      "description": "Висит на вывеске Post OP"
     }
   ],
   "unknowns": []
